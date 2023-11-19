@@ -1,4 +1,4 @@
-## Sokoban Java
+# Sokoban Java
 ![jeu](https://github.com/Douroucouliii/SokobanJava/assets/129008147/23d72901-4dcf-48cd-b09d-72b71b05e370)
 
 Projet réalisé en java.
