@@ -4,7 +4,11 @@
 Projet réalisé en java.
 C'est le jeu Sokoban réalisé en Java avec Swing pour la partie graphique.
 
-Les touches sont expliquées dans le jeu.
+# Controleur :
+
+* <kbd>←</kbd> <kbd>→</kbd> <kbd>↑</kbd> <kbd>↓</kbd>   
+* <kbd>Z</kbd> <kbd>Q</kbd> <kbd>S</kbd> <kbd>D</kbd> : bouger le personnage.
+* Flèche retour pour supprimer le dernier mouvement.
 
 # Fonctionnalités :
 
