@@ -12,14 +12,14 @@ C'est le jeu Sokoban réalisé en Java avec Swing pour la partie graphique.
 
 # Fonctionnalités :
 
-Toutes les fonctionnalités du sokoban ont été implémenté.   
-Un menu interactif pour sélectionner les différents niveaux.   
-Un bouton pour recommencer le niveau. Un bouton pour retourner sur le menu.   
-Un bouton pour annuler le dernier déplacement (autant qu'on veut), et l'ancienne direction du robot se remet.   
-Un menu de fin de partie pour pouvoir accéder au prochain niveau, recommencer le même, accéder au menu ou quitter.   
-61 maps implémentés (expliqué plus bas). Les images personnalisées.
-Le titre du niveau apparaît en nom de la fenêtre.   
-Un compteur de mouvement en bas du niveau. Un label qui explique les commandes.   
+* Toutes les fonctionnalités du sokoban ont été implémenté.   
+* Un menu interactif pour sélectionner les différents niveaux.   
+* Un bouton pour recommencer le niveau. Un bouton pour retourner sur le menu.   
+* Un bouton pour annuler le dernier déplacement (autant qu'on veut), et l'ancienne direction du robot se remet.   
+* Un menu de fin de partie pour pouvoir accéder au prochain niveau, recommencer le même, accéder au menu ou quitter.   
+* 61 maps implémentés (expliqué plus bas). Les images personnalisées.
+* Le titre du niveau apparaît en nom de la fenêtre.   
+* Un compteur de mouvement en bas du niveau. Un label qui explique les commandes.   
 
 # Map :
 
