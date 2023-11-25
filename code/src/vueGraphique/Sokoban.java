@@ -10,10 +10,3 @@ public class Sokoban {
 
     }
 }
-// Chose des trucs à faire :
-
-// Bouton retour pour les caisses
-// Images de Whitney (et pas oublier PARTOUT) + image menu et fin de partie +
-// image boutons
-
-// générer doc et faire .jar
